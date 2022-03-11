@@ -1,6 +1,6 @@
 # Agile Coaching Model
 
-This repository describes an Agile Coaching Engagement Model. This model was developed at the end of 3Q 2018 as a proposal to formalize and build up the Agile Coach role within any organization. Efforts to formalize were stalled in 4Q 2018, but the effort is being adjusted and revitalized in 2019 via a community of supporting invdividuals and teams.
+This repository describes an Agile Coaching Engagement Model. This model was developed at the end of 3Q 2018 as a proposal to formalize and build up the Agile Coach role within Expedia. Efforts to formalize were stalled in 4Q 2018, but the effort is being adjusted and revitalized in 2019 via a community of supporting invdividuals and teams.
 
 The idea behind this approach is to build a community of practioners willing to contribute to the ongoing development and coaching of Lean-Agile across an organization. It is a collaborative space, where all practitioners can come together to create a reference for how to build up their own Agile Coaching model within their organization, and teach others how to improve theirs.
 
